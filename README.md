@@ -43,9 +43,3 @@ The CSV file contains the following columns:
 
 To view or analyze the collected data, you can use spreadsheet software (e.g., LibreOffice Calc, Microsoft Excel) or data analysis tools. You can also create charts and diagrams to visualize the data.
 
-## License
-
-This script is provided under the [MIT License](LICENSE).
-```
-
-This `README.md` file provides an overview of your script, prerequisites, usage instructions, data format, and suggestions for viewing and analyzing the collected data. You can include this `README.md` file with your script when sharing it with others or publishing it on a code repository.
